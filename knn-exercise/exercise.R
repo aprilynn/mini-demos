@@ -47,4 +47,3 @@ abline(v = which(acc_k == max(acc_k)), col = "darkorange", lwd = 1.5)
 
 # add line for max accuracy seen
 abline(h = max(acc_k), col = "grey", lty = 2)
-
